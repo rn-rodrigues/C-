@@ -1,5 +1,5 @@
 #include <iostream>
-
+	// Implementação de uma Pilha Sequencial com funções inseridas para manipulação de 2 Pilhas
 using namespace std;
 
 #define MAX 1000
